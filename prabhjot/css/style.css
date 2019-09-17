@@ -1,0 +1,35 @@
+body{
+    background-color:royalblue;
+    color:darkmagenta;
+    font-size:2rem;
+    font-family: arial;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: left;
+}
+.heading{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.heading1
+{
+    color:rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading2
+{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+#head{
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3
+{
+    color: blueviolet;
+
+}

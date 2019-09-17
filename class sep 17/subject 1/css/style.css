@@ -1,0 +1,110 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.underlined-word
+{
+    text-decoration:underline;
+}
+.bolded-word
+{
+    font-weight: bold;
+}
+.italics-word
+{
+    font-style:italic;
+}
+.firstP
+{
+   /*
+   
+   padding : top right bottom left
+   padding : top/bottom right/left
+   padding : all
+
+   borders: when applying borders you must apply the following:-
+   1. width
+   2.style or type of border
+   3. color 
+
+   */
+   padding: 0 2rem 0 2rem;
+   background-color: aqua;
+   border : 2px solid red;
+   border-radius: 2rem;
+
+}
+
+h2
+{
+color:#ff0000;
+}
+.box-2
+{
+    margin:90px 0 0 50px;
+}
+
+section{
+
+
+    /*height: vh (regardless the height it will fill the page in equal parts as defined by the value*/
+    width: 100%;
+height: 50vh;
+    background-color: #ff0000;
+    background-image: url("../img/twitter.png");
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-position: center center; /* when applied, no need  to apply background- repeat*/
+}
+
+
+.header-bg
+{
+    width: 100%;
+height: 50vh;
+    background-image: url(../img/header-bg.jpeg);
+    background-size: cover;
+    background-position: center center;
+}
+.text
+{
+    padding: 4rem 2rem 0 2rem;
+    color: white;
+text-align: center; 
+}
+
+.main
+{
+    background-color: lightgrey;
+}
+.text1
+{
+
+    padding: 2rem 2rem 0 2rem;
+    color:black;
+text-align: center; 
+}
+/* applies on all tags in design ( the * selector)
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,.word
+{
+    margin: 0 0 12px 0;
+}
+
+body
+
+{
+font-size:1.1rem;
+font-family:Arial, helvetica, sans-serif;
+}
+
+
+
+*/

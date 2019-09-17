@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900|PT+Serif:400,400i,700,700i&display=swap');
+/* font file must be the first line in css */
+
+
+
+
+body{
+    background-color:royalblue;
+    color:darkmagenta;
+    font-size:2rem;
+    font-family: arial;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    
+}
+.heading{
+    text-align: center;
+    color: coral;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em
+}
+
+
+.intro
+{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1em;
+    
+}
+
+
+.heading1
+{
+    color:rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading2
+{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+#head{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3
+{
+    color: blueviolet;
+
+
+}
+.highlight
+{
+    color: brown;
+}
+
+/* fonts.google.com */
